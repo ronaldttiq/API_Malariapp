@@ -1,0 +1,14 @@
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\bin\Debug\net10.0\Comun.deps.json
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\bin\Debug\net10.0\Comun.runtimeconfig.json
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\bin\Debug\net10.0\Comun.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\bin\Debug\net10.0\Comun.pdb
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.AssemblyInfoInputs.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.AssemblyInfo.cs
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\refint\Comun.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.pdb
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\Comun.genruntimeconfig.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Comun\obj\Debug\net10.0\ref\Comun.dll

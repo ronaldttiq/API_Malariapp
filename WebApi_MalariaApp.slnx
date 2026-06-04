@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/1. UL/">
+    <Project Path="API_Malariapp/API_Malariapp.csproj" />
+  </Folder>
+  <Folder Name="/2. BL/">
+    <Project Path="Negocio/Negocio.csproj" />
+  </Folder>
+  <Folder Name="/3. DL/">
+    <Project Path="Datos/Datos.csproj" />
+  </Folder>
+  <Folder Name="/4. CL/">
+    <Project Path="Comun/Comun.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,17 @@
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Datos.deps.json
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Datos.runtimeconfig.json
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Datos.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Datos.pdb
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Comun.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\bin\Debug\net10.0\Comun.pdb
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.csproj.AssemblyReference.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.AssemblyInfoInputs.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.AssemblyInfo.cs
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.csproj.Up2Date
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\refint\Datos.dll
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.pdb
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\Datos.genruntimeconfig.cache
+C:\Users\Soporte\Documents\MalariAppFront\WebApi_MalariaApp\Datos\obj\Debug\net10.0\ref\Datos.dll

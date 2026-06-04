@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "API_Malariapp.Controllers.MuestraController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Muestra/Actualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "muestraDto",
+        "Type": "Comun.Dto.MuestraDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Malariapp.Controllers.MuestraController",
+    "Method": "ConsultaListabyId",
+    "RelativePath": "api/Muestra/ConsultaListabyId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Malariapp.Controllers.MuestraController",
+    "Method": "ConsultarLista",
+    "RelativePath": "api/Muestra/ConsultarLista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Malariapp.Controllers.MuestraController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Muestra/Eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "muestraDto",
+        "Type": "Comun.Dto.MuestraDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API_Malariapp.Controllers.MuestraController",
+    "Method": "Guardar",
+    "RelativePath": "api/Muestra/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "muestraDto",
+        "Type": "Comun.Dto.MuestraDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
