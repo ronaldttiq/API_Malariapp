@@ -2,7 +2,7 @@
 
 ## Descripción
 
-API REST desarrollada en .NET 8 para la gestión de información de la aplicación MalariaApp. La solución implementa una arquitectura por capas que permite la separación de responsabilidades entre la lógica de negocio, acceso a datos y exposición de servicios.
+API REST desarrollada en .NET 10 para la gestión de información de la aplicación MalariaApp. La solución implementa una arquitectura por capas que permite la separación de responsabilidades entre la lógica de negocio, acceso a datos y exposición de servicios.
 
 ## Tecnologías Utilizadas
 
